@@ -1,5 +1,6 @@
 {
+    "name": "dataform-bigquery-poc",
     "dependencies": {
-        "@dataform/core": "1.6.2"
+        "@dataform/core": "2.0.0-beta.1"
     }
 }
